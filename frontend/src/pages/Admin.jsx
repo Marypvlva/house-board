@@ -63,7 +63,7 @@ export default function Admin() {
 
   return (
     <div>
-      <h2>Админка — дом {slug}</h2>
+      <h2>Админ — дом {slug}</h2>
 
       <form onSubmit={onSubmit} style={{display:"grid", gap:12, maxWidth:560, marginBottom:16}}>
         <input
