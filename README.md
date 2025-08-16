@@ -3,6 +3,9 @@
 Лёгкое приложение: **FastAPI** (backend) + **React (Vite)** (frontend).
 Каждый дом имеет свою «скрытую» ссылку на доску объявлений.
 Админ может войти **только** со страницы своего дома и публиковать объявления.
+<img width="1769" height="870" alt="image" src="https://github.com/user-attachments/assets/833ade9b-a8b1-4464-94b1-9c3d0ef95b1e" />
+<img width="1581" height="861" alt="image" src="https://github.com/user-attachments/assets/93825151-7563-4f2c-ab58-9612c19fea15" />
+
 
 ---
 
