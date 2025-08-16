@@ -4,7 +4,7 @@
 Каждый дом имеет свою «скрытую» ссылку на доску объявлений.
 Админ может войти **только** со страницы своего дома и публиковать объявления.
 <img width="1769" height="870" alt="image" src="https://github.com/user-attachments/assets/833ade9b-a8b1-4464-94b1-9c3d0ef95b1e" />
-<img width="1581" height="861" alt="image" src="https://github.com/user-attachments/assets/93825151-7563-4f2c-ab58-9612c19fea15" />
+<img width="1649" height="859" alt="image" src="https://github.com/user-attachments/assets/931a110d-2bc2-422e-8ad6-63c279f53092" />
 
 
 ---
