@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+passlib[bcrypt]
+python-jose[cryptography]
+pydantic
+python-multipart
+bcrypt==3.2.2
+passlib==1.7.4
