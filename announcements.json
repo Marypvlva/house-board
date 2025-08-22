@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2025-08-10-water-shutoff",
+    "title": "Water shut-off (Aug 25, 10:00–14:00)",
+    "body": "Repairs in the main line. Please store water in advance. See the [city notice](https://example.com/notice) for details.",
+    "date": "2025-08-10",
+    "expires": "2025-08-26",
+    "tags": ["utilities"],
+    "pinned": true
+  },
+  {
+    "id": "2025-08-20-lobby-painting",
+    "title": "Lobby painting on Aug 28–29",
+    "body": "Wet paint — use the back entrance. **Please do not touch the walls.**",
+    "date": "2025-08-20",
+    "tags": ["maintenance"]
+  },
+  {
+    "id": "2025-07-25-fire-alarm-test",
+    "title": "Fire alarm testing (Aug 1)",
+    "body": "Routine testing. Alarms may sound briefly. *No action needed.*",
+    "date": "2025-07-25",
+    "expires": "2025-08-02",
+    "tags": ["safety"]
+  }
+]
